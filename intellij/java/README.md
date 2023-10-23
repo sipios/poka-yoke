@@ -16,7 +16,3 @@ Here is a video to show you how to install the Poka Yoke for Intellij IDEA.
 - Avoid using `@DirtyContext` in a test class
 - Avoid using primary type in entity with generated ID
 - Avoid using primary on a nullable field in an entity
-
-Why should you avoid using @DirtiesContext :
-
-@DirtiesContext will force Spring to reload the context after the test. It can be very slow and it is not necessary in most of the cases.
