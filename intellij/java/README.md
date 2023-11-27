@@ -13,6 +13,6 @@ Here is a video to show you how to install the Poka Yoke for Intellij IDEA.
 ## List of all structural search inspection implemented :
 
 - Avoid using `@MockBean` or `@SpyBean` in a test class
-- Avoid using `@DirtyContext` in a test class
+- Avoid using `@DirtyContext` in a test class [WIP]
 - Avoid using primary type in entity with generated ID
-- Avoid using primary on a nullable field in an entity
+- Avoid using primary on a nullable field in an entity [WIP]
