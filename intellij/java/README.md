@@ -15,4 +15,4 @@ Intellij has a powerful system of Structural search inspection. It allows you to
 - Avoid using `@MockBean` or `@SpyBean` in a test class
 - Avoid using `@DirtyContext` in a test class
 - Avoid using primary type in entity with generated ID
-- Avoid using primary on a nullable field in an entity [WIP]
+- Avoid using primary on a nullable field in an entity [WIP] ?
