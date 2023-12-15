@@ -1,6 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Project Default" />
-  <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="SSBasedInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <searchConfiguration name="Primitive type in entities" description="Do not use primitive type for IDs in your entities.&#10;&#10;You can find more details on this Dantotsu : &lt;LINK&gt;" suppressId="PrimitiveAsId" problemDescriptor="Do not use primitive type for IDs in your entity, you can find more information in the description" text="class $Class$ {&#10;  @jakarta.persistence.Id&#10;  $FieldType$ $Field$ = $Init$;&#10;}" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default">
       <constraint name="__context__" within="" contains="" />
       <constraint name="Class" script="&quot;!__context__.interface &amp;&amp; !__context__.enum &amp;&amp; !__context__.record&quot;" within="" contains="" />
