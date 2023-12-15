@@ -6,13 +6,15 @@ Intellij has a powerful system of Structural search inspection. It allows you to
 
 ## Tutorial to import the configuration file
 
-Here is a video to show you how to install the Poka Yoke for Intellij IDEA.
+Here is a video to show you how to install the Poka Yoke for Intellij IDEA :
 
-[![Poka Yoke for Intellij IDEA](https://img.youtube.com/vi/9Z3X6Y5Z8qM/0.jpg)](https://www.youtube.com/watch?v=9Z3X6Y5Z8qM)
+- You should clone the repository before starting the video
+
+<iframe src="https://drive.google.com/file/d/1iQ62J2gvqjvhcafB-XagguPnAPybyoMJ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## List of all structural search inspection implemented :
 
 - Avoid using `@MockBean` or `@SpyBean` in a test class
-- Avoid using `@DirtyContext` in a test class [WIP]
+- Avoid using `@DirtyContext` in a test class
 - Avoid using primary type in entity with generated ID
 - Avoid using primary on a nullable field in an entity [WIP]
