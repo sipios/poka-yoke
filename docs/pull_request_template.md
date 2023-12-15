@@ -8,7 +8,7 @@
 ## Problem
 
 - My problem is :
-- Here is the analysis of the problem (Dantotsu, Kaizen, Problem Solving): 
+- Here is the Dantotsu associated to the bug (Problem Solving or Kaizen are also accepted): 
 
 ## Solution
 
