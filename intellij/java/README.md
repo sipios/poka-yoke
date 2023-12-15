@@ -4,13 +4,11 @@
 
 Intellij has a powerful system of Structural search inspection. It allows you to search for a pattern in your code and to apply a quick fix to it.
 
-## Tutorial to import the configuration file
-
-Here is a video to show you how to install the Poka Yoke for Intellij IDEA :
+## Tutorial to import the configuration file :
 
 - You should clone the repository before starting the video
-
-<iframe src="https://drive.google.com/file/d/1iQ62J2gvqjvhcafB-XagguPnAPybyoMJ/preview" width="640" height="480" allow="autoplay"></iframe>
+- Clone the repository on your computer
+- Follow the steps on the [video](https://drive.google.com/file/d/1iQ62J2gvqjvhcafB-XagguPnAPybyoMJ/view?usp=drive_link) to install the Poka Yoke for Intellij IDEA.
 
 ## List of all structural search inspection implemented :
 
